@@ -1,0 +1,15 @@
+
+	========== Record_system_utility_at_end_of_each_EPOCH: ==========
+		-nEpoch_j	1	-sysUtility	559750.5	-total_num_of_shards	351                         	-dAoI_total	111939.0	-Txs_total	447793.0	-miningpool	408.11	 -WEIGHT_NUM_TX	1.5	 -WEIGHT_AOI	1.0                         	-totally_time	142.9907431602478 
+
+	========== Record_system_utility_at_end_of_each_EPOCH: ==========
+		-nEpoch_j	2	-sysUtility	512052.5	-total_num_of_shards	340                         	-dAoI_total	112420.0	-Txs_total	416315.0	-miningpool	377.49	 -WEIGHT_NUM_TX	1.5	 -WEIGHT_AOI	1.0                         	-totally_time	142.7348906993866 
+
+	========== Record_system_utility_at_end_of_each_EPOCH: ==========
+		-nEpoch_j	3	-sysUtility	525258.0	-total_num_of_shards	332                         	-dAoI_total	122637.0	-Txs_total	431930.0	-miningpool	306.74	 -WEIGHT_NUM_TX	1.5	 -WEIGHT_AOI	1.0                         	-totally_time	148.08322501182556 
+
+	========== Record_system_utility_at_end_of_each_EPOCH: ==========
+		-nEpoch_j	4	-sysUtility	512585.5	-total_num_of_shards	334                         	-dAoI_total	98354.0	-Txs_total	407293.0	-miningpool	369.77	 -WEIGHT_NUM_TX	1.5	 -WEIGHT_AOI	1.0                         	-totally_time	149.5619716644287 
+
+	========== Record_system_utility_at_end_of_each_EPOCH: ==========
+		-nEpoch_j	5	-sysUtility	498201.5	-total_num_of_shards	347                         	-dAoI_total	126376.0	-Txs_total	416385.0	-miningpool	376.67	 -WEIGHT_NUM_TX	1.5	 -WEIGHT_AOI	1.0                         	-totally_time	143.4339954853058 
